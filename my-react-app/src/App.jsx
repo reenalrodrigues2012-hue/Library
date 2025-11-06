@@ -2,7 +2,6 @@ import Example from "./Example"
 
 
 function App() {
- 
 
   return (
     <>
@@ -18,5 +17,7 @@ function App() {
     </>
   )
 }
+
+
 
 export default App
